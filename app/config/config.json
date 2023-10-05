@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "fl0user",
+    "password": "39OwkRylXaNI",
+    "database": "chatapi",
+    "host": "ep-old-river-98890780.ap-southeast-1.aws.neon.fl0.io",
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  },
+  "test": {
+    "username": "fl0user",
+    "password": "39OwkRylXaNI",
+    "database": "chatapi",
+    "host": "ep-old-river-98890780.ap-southeast-1.aws.neon.fl0.io",
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  },
+  "production": {
+    "username": "fl0user",
+    "password": "39OwkRylXaNI",
+    "database": "chatapi",
+    "host": "ep-old-river-98890780.ap-southeast-1.aws.neon.fl0.io",
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  }
+}
